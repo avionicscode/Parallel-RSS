@@ -10,6 +10,10 @@
 #include <cstring>
 #include <iostream>
 
+/*
+I need to generate the stream here and then modify the rss-count to remove the std::ifstream.
+run skyline takes only name of function, dimensionality, window.
+*/
 namespace sdistream
 {
 
